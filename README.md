@@ -42,15 +42,15 @@ Installation:
 2. Install dependencies: npm install
 3. Start the server: npm start
 
-Contributing:
-
-Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
-
-
-
 Usage:
 
 1. Register or login to start exploring destinations
 2. Upload images and share your travel experiences
 3. Use interactive maps to discover new places
 4. Enjoy a seamless user experience with robust error handling
+
+
+Contributing:
+
+Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
+
