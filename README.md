@@ -24,7 +24,6 @@ Tech Stack:
     - Multer (image upload middleware)
     - Passport.js (authentication framework)
 - Frontend:
-    - React.js (JavaScript library for UI components)
     - Bootstrap (CSS framework for responsive design)
 - Image Storage:
     - Cloudinary (cloud-based image storage and management)
